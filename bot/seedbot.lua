@@ -226,29 +226,27 @@ function create_config( )
     "id",
     "admin"
     },
-    sudo_users = {85831686},--Sudo users
+    sudo_users = {152321430},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[spammer-bot
+    about_text = [[OffLiNeSpammer
 An advance Administration bot based on teleseed 
 spammer bot open sourced to:
-[source spammer bot](https://github.com/3pehrdev/spammer-bot)
+[source spammer bot](https://github.com/OffLiNeTeam/spamer)
 
 developed and founded
 By
-[blacklife admin](telegram.me/joker_admin_1)
+[#Amir](telegram.me/This_Is_Ami)
 my chanell
-[chanell blacklifeTM](telegram.me/blacklifech)
+[OffLiNeTeam](https://telegram.me/OffLiNeTeam)
 
  thanks to:
-mobin
---
---
---
+
+[MyTeam](https://telegram.me/OffLiNeTeam)
 
 special thanks to
-blacklifeTm
-teleseedTm
+OffLiNeTeam
+TeleSeedTeam
 ]],
     help_text_realm = [[
 Realm Commands:
