@@ -1,27 +1,26 @@
-# [Developed by joker_admin_1](https://telegram.me/@joker_Admin_1)
+# [Developed by This_Is_Amir](https://telegram.me/@This_Is_Amir)
 
-[chanell ekhtesasi](https://telegram.me/make_a_robot)
+[chanell Team](https://telegram.me/OffLiNeTeam)
 
-baraye nasb shodan git rooye botetoon too terminal mitoonid az code haye zir estefade konid
-
-sudo apt-get update
-
-sudo apt-get upgrade
-
+[Installation](https://github.com/yagop/telegram-bot/wiki/Installation)
+------------
+```bash
+# Tested on Ubuntu 14.04, for other OSs check out https://github.com/yagop/telegram-bot/wiki/Installation
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
+```
 
-git clone https://github.com/3pehrdev/spammer-bot
-
-cd spammer-bot
-
+```bash
+# After those dependencies, lets install the bot
+cd $HOME 
+git clone https://github.com/OffLiNeTeam/spamer.git
+cd spamer
 ./launch.sh install
-
-./launch.sh
-
+./launch.sh # Will ask you for a phone number & confirmation code.
+```
 yadetoon nare ghabl az avalin launch idi khodetoon ro dakhel seedbot.lua baraye sudo shodan gharar bedid
 
 movafagh va sarboland bashid :)
-# [Danger](telegram.me/joker_admin_1)
+# [Danger](telegram.me/This_Is_Amir)
 
 hatman ghabl launch plugine (autoaddersudo) ro check konid
 
