@@ -3,7 +3,7 @@ do
 
 function run(msg, matches)
 
-  return 'helptext'.. VERSION .. [[🔮help for spammer-bot🔮
+  return 'helptext'.. VERSION .. [[🔮help for OffLiNeSpammer🔮
    🔺 (spam) (number) (name)
     
    spam b surat chand taii va feshorde dar 1 payam⚠️
@@ -52,9 +52,8 @@ function run(msg, matches)
    
    avaz kardan profilebot⚠️
 
-☠⚠️thanks to BlackLifeTM⚠️☠]
-
-By @joker_admin_1]
+☠⚠️thanks to OffLiNeTeam⚠️☠]
+By @This_Is_Amir]
 
 end
 
