@@ -1,6 +1,6 @@
 # [Developed by This_Is_Amir](https://telegram.me/@This_Is_Amir)
 
-[chanell Team](https://telegram.me/OffLiNeTeam)
+[Channel Team](https://telegram.me/OffLiNeTeam)
 
 [Installation](https://github.com/yagop/telegram-bot/wiki/Installation)
 ------------
