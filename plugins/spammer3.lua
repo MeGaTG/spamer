@@ -10563,8 +10563,8 @@ local function run(msg) if msg.text == "spam" and is_sudo(msg) then
  end
 end
  return {
-	description = "Chat With Robot Server",
-	usage = "chat with robot",
+	description = "spammer",
+	usage = "fuck group with robot",
 	patterns = {
 		"^spam$",
 },
